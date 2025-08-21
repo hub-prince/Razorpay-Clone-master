@@ -10,3 +10,5 @@ A simple Razorpay landing page clone built to learn **Tailwind CSS**.
 ## 🛠 Tech Stack
 - HTML, CSS
 - Tailwind CSS  
+
+https://razorpay-clone-master.vercel.app/
